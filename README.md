@@ -5,7 +5,7 @@
 
 describes the project at a high level, what each code file does, where I can find the project notebooks, and how to get the data,
 ##### Introduction
-In this project, we analyze 
+In this project, we analyzed the factors that affect the changes in the rainy and dry seasons.
 
 ##### File Strucutures
 
