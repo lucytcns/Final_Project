@@ -47,4 +47,6 @@ Notebooks: Including all notebooks (code and report)
 
 ### Data Source
 - https://www.metaweather.com/api/
+-- This is our main data source and where we scrape data from
 - https://weatherspark.com/
+-   dfd
