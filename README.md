@@ -6,7 +6,7 @@
 describes the project at a high level, what each code file does, where I can find the project notebooks, and how to get the data,
 
 ### Introduction
-For thousands of years, people have been studying the dry and rainy seasons for agricultural planning and urban and rural construction. However, the time period of the dry and rainy season has always changed. We believe that certain weather terms determine the dry and rainy season. Therefore, we want to analyze the factors that affect the changes in the rainy and dry seasons. We list the factors related to the dry and rainy seasons as variables: humidity, air pressure, wind speed, and temperature.
+For thousands of years, people have been studying the dry and rainy seasons for agricultural planning and urban and rural construction. However, the time period of the dry and rainy season has always changed. We believe that certain weather terms determine the dry and rainy season. Therefore, we want to analyze the factors that affect the changes in the rainy and dry seasons. We list four factors related to the dry and rainy seasons as variables: humidity, air pressure, wind speed, and temperature.
 
 According to the topic, we have two following questions from time and place as starting points:
 
