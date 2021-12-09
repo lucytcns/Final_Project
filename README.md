@@ -27,9 +27,19 @@ To see our complete analysis, read our notebook to know more.
 ##### File Strucutures
 ###### Files
 Data:
+- sacramento
+- Denver
+- Las_Vegas
+- Lake_Tahoe
+- Indianapolis
 
 1976_80:
+- AirPressure
+- Humidity
+- Windspeed
+- Temperature
 
 Notebooks:
+- WebScraping
 
 ##### Data Source
