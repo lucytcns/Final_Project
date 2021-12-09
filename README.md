@@ -18,10 +18,6 @@ For fixed location at different times, is there any difference between the curre
 ## Readme:
 In this project, we want to analyze the factors show the changes in the rainy and dry seasons. We list four factors related to the dry and rainy seasons as variables: humidity, air pressure, wind speed, and temperature. According to the topic, we have two following questions from time and place as starting points: For different locations at a fixed time, what is the difference between the dry and rainy seasons in different areas? For fixed location at different times, is there any difference between the current and the past dry and rainy seasons? 
 
-.............
-
-To see our complete analysis, read our notebook to know more.
-
 ## Data
 
 ### File Strucutures
@@ -50,3 +46,6 @@ Notebooks: Including all notebooks (code and report)
 -- This is our main data source and where we scrape data from
 - https://weatherspark.com/
 -- This is an additional weather picture source for finding weather related pictures from 1976 to 1980 at Sacramento
+
+
+To see our complete analysis, read our notebook to know more.
