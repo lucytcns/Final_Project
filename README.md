@@ -41,6 +41,10 @@ Data: Including aggregated weather data from 2016 to 2020 in five cities
 - Temperature.jpeg
 
 Notebooks: Including all notebooks (code and report)
-- WebScraping.ipynb
+- WebScraping.ipynb: Including codes for aggregated weather data from 2016 to 2020 in five cities from metaweather.api. Specifically the data is aggregated based on daily average and transformdata to csv for better graphing
+- Graphing: Including graphing codes for air pressure, humidity, windspeed, temperature for data packed from WebScraping
+- Report: Including write-ups and output graphs
 
 ### Data Source
+- https://www.metaweather.com/api/
+- https://weatherspark.com/
