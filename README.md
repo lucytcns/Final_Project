@@ -22,24 +22,25 @@ In this project, we want to analyze the factors show the changes in the rainy an
 
 To see our complete analysis, read our notebook to know more.
 
-### Data
+## Data
 
-##### File Strucutures
-###### Files
-Data:
+### File Strucutures
+#### Files
+Data: Including aggregated weather data from 2016 to 2020 in five cities
 - sacramento
 - Denver
 - Las_Vegas
 - Lake_Tahoe
 - Indianapolis
 
-1976_80:
-- AirPressure
-- Humidity
-- Windspeed
-- Temperature
+1976_80: Including weather related pictures from 1976 to 1980 at Sacramento
+(Gathered from another source since we do not have data from 1976 to 1980 in metaweather.api)
+- AirPressure.jpeg
+- Humidity.jpeg
+- Windspeed.jpeg
+- Temperature.jpeg
 
-Notebooks:
-- WebScraping
+Notebooks: Including all notebooks (code and report)
+- WebScraping.ipynb
 
-##### Data Source
+### Data Source
