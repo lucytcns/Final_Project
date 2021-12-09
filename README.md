@@ -18,11 +18,9 @@ For fixed location at different times, is there any difference between the curre
 ## Readme:
 In this project, we want to analyze the factors show the changes in the rainy and dry seasons. We list four factors related to the dry and rainy seasons as variables: humidity, air pressure, wind speed, and temperature. According to the topic, we have two following questions from time and place as starting points: For different locations at a fixed time, what is the difference between the dry and rainy seasons in different areas? For fixed location at different times, is there any difference between the current and the past dry and rainy seasons? 
 
-We think that studying the dry and rainy seasons is helpful to Water Conservancy Projects, such as drainage system construction and drinking water policy, etc. Understanding the time pattern of the dry and rainy season can enable people to have better countermeasures and guidelines for urban and rural construction.
+.............
 
-..........
-
-To see our complete analysis, read our notebooks to know more.
+To see our complete analysis, read our notebook to know more.
 
 ## Data
 
@@ -35,7 +33,7 @@ Data: Including aggregated weather data from 2016 to 2020 in five cities
 - Lake_Tahoe
 - Indianapolis
 
-1976_80: Including weather related pictures from 1976 to 1980 at Sacramento
+1976_80: Including reformed weather related pictures from 1976 to 1980 at Sacramento
 (Gathered from another source since we do not have data from 1976 to 1980 in metaweather.api)
 - AirPressure.jpeg
 - Humidity.jpeg
@@ -49,4 +47,6 @@ Notebooks: Including all notebooks (code and report)
 
 ### Data Source
 - https://www.metaweather.com/api/
+-- This is our main data source and where we scrape data from
 - https://weatherspark.com/
+-- This is an additional weather picture source for finding weather related pictures from 1976 to 1980 at Sacramento
