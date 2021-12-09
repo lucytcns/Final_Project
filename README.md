@@ -28,6 +28,8 @@ Notebooks: Including all notebooks (code and report)
 - Graphing: Including graphing codes for air pressure, humidity, windspeed, temperature for data packed from WebScraping
 - Report: Including write-ups and output graphs
 
+Report.pdf: a pdf version of our print out report.ipynb
+
 ### Data Source
 - https://www.metaweather.com/api/
 -- This is our main data source and where we scrape data from
