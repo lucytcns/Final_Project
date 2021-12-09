@@ -22,7 +22,7 @@ We think that studying the dry and rainy seasons is helpful to Water Conservancy
 
 ..........
 
-To see our complete analysis, read our notebook to know more.
+To see our complete analysis, read our notebooks to know more.
 
 ## Data
 
